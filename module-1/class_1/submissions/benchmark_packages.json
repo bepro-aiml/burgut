@@ -1,0 +1,1832 @@
+[
+  {
+    "id": "package_0001",
+    "question": "1 GB internet paket skolko stoit ?",
+    "expected_answer": "1 GB 30 kunlik internet paketi — narxi 10 000 so'm. Faollashtirish kodi: *111*1*9*1#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB"
+      ],
+      "prices": [
+        "10 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*1#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "mixed",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0002",
+    "question": "1 GB sotib olish **kodini**",
+    "expected_answer": "1 GB internet paketni faollashtirish USSD kodi — *111*1*9*1#. Narxi 10 000 so'm, amal qiladigan muddat 30 kun.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB"
+      ],
+      "prices": [
+        "10 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*1#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "mixed",
+    "source": "website"
+  },
+  {
+    "id": "package_0003",
+    "question": "10 000 so'm ga qancha internet beriladi?",
+    "expected_answer": "10 000 so'm ga 1 GB internet paket, 30 kunlik. Faollashtirish: *111*1*9*1#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB"
+      ],
+      "prices": [
+        "10 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*1#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "mixed",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0004",
+    "question": "1.5 GB internet paket skolko stoit ?",
+    "expected_answer": "1.5 GB 30 kunlik internet paketi — narxi 15 000 so'm. Faollashtirish kodi: *111*1*9*2#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1.5 GB"
+      ],
+      "prices": [
+        "15 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*2#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "mixed",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0005",
+    "question": "1.5 GB sotib olish **kodini**",
+    "expected_answer": "1.5 GB internet paketni faollashtirish USSD kodi — *111*1*9*2#. Narxi 15 000 so'm, amal qiladigan muddat 30 kun.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1.5 GB"
+      ],
+      "prices": [
+        "15 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*2#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "mixed",
+    "source": "website"
+  },
+  {
+    "id": "package_0006",
+    "question": "15 000 so'm ga qancha internet beriladi?",
+    "expected_answer": "15 000 so'm ga 1.5 GB internet paket, 30 kunlik. Faollashtirish: *111*1*9*2#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1.5 GB"
+      ],
+      "prices": [
+        "15 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*2#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "mixed",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0007",
+    "question": "3 GB internet paket tsenasi qancha ?",
+    "expected_answer": "3 GB 30 kunlik internet paketi — narxi 20 000 so'm. Faollashtirish kodi: *111*1*9*3#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "3 GB"
+      ],
+      "prices": [
+        "20 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*3#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "mixed",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0008",
+    "question": "3 GB sotib olish kodi",
+    "expected_answer": "3 GB internet paketni faollashtirish USSD kodi — *111*1*9*3#. Narxi 20 000 so'm, amal qiladigan muddat 30 kun.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "3 GB"
+      ],
+      "prices": [
+        "20 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*3#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0009",
+    "question": "20 000 so'm ga qancha internet beriladi?",
+    "expected_answer": "20 000 so'm ga 3 GB internet paket, 30 kunlik. Faollashtirish: *111*1*9*3#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "3 GB"
+      ],
+      "prices": [
+        "20 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*3#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0010",
+    "question": "5 GB internet paket narxi qancha?",
+    "expected_answer": "5 GB 30 kunlik internet paketi — narxi 30 000 so'm. Faollashtirish kodi: *111*1*9*4#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "5 GB"
+      ],
+      "prices": [
+        "30 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*4#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0011",
+    "question": "5 GB sotib olish kodi",
+    "expected_answer": "5 GB internet paketni faollashtirish USSD kodi — *111*1*9*4#. Narxi 30 000 so'm, amal qiladigan muddat 30 kun.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "5 GB"
+      ],
+      "prices": [
+        "30 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*4#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0012",
+    "question": "30 000 so'm ga qancha internet beriladi?",
+    "expected_answer": "30 000 so'm ga 5 GB internet paket, 30 kunlik. Faollashtirish: *111*1*9*4#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "5 GB"
+      ],
+      "prices": [
+        "30 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*4#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0013",
+    "question": "8 GB internet paket narxi qancha?",
+    "expected_answer": "8 GB 30 kunlik internet paketi — narxi 40 000 so'm. Faollashtirish kodi: *111*1*9*5#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "8 GB"
+      ],
+      "prices": [
+        "40 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*5#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0014",
+    "question": "8 GB sotib olish kodi",
+    "expected_answer": "8 GB internet paketni faollashtirish USSD kodi — *111*1*9*5#. Narxi 40 000 so'm, amal qiladigan muddat 30 kun.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "8 GB"
+      ],
+      "prices": [
+        "40 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*5#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0015",
+    "question": "40 000 so'm ga qancha internet beriladi?",
+    "expected_answer": "40 000 so'm ga 8 GB internet paket, 30 kunlik. Faollashtirish: *111*1*9*5#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "8 GB"
+      ],
+      "prices": [
+        "40 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*5#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0016",
+    "question": "Data 300 GB paket qancha turadi?",
+    "expected_answer": "Data 300 GB paket — 500 000 so'm yillik (1 yilga). 300 GB internet.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 300 GB"
+      ],
+      "prices": [
+        "500 000"
+      ],
+      "data": [
+        "300 GB"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0017",
+    "question": "Data 300 GB haqida ma'lumot",
+    "expected_answer": "Data 300 GB: oylik emas, yillik paket — 500 000 so'm, 300 GB internet 1 yilga.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 300 GB"
+      ],
+      "prices": [
+        "500 000"
+      ],
+      "data": [
+        "300 GB"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0018",
+    "question": "Data 600 GB paket qancha turadi?",
+    "expected_answer": "Data 600 GB paket — 900 000 so'm yillik (1 yilga). 600 GB internet.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 600 GB"
+      ],
+      "prices": [
+        "900 000"
+      ],
+      "data": [
+        "600 GB"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0019",
+    "question": "Data 600 GB haqida ma'lumot",
+    "expected_answer": "Data 600 GB: oylik emas, yillik paket — 900 000 so'm, 600 GB internet 1 yilga.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 600 GB"
+      ],
+      "prices": [
+        "900 000"
+      ],
+      "data": [
+        "600 GB"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0020",
+    "question": "Data 1 TB paket qancha turadi?",
+    "expected_answer": "Data 1 TB paket — 1 300 000 so'm yillik (1 yilga). 1 TB internet.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 1 TB"
+      ],
+      "prices": [
+        "1 300 000"
+      ],
+      "data": [
+        "1 TB"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0021",
+    "question": "Data 1 TB haqida ma'lumot",
+    "expected_answer": "Data 1 TB: oylik emas, yillik paket — 1 300 000 so'm, 1 TB internet 1 yilga.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 1 TB"
+      ],
+      "prices": [
+        "1 300 000"
+      ],
+      "data": [
+        "1 TB"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0022",
+    "question": "Foydali 1 paket qancha turadi?",
+    "expected_answer": "Foydali 1 paketi narxi 825 000 so'm (6 oy). cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1"
+      ],
+      "prices": [
+        "825 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0023",
+    "question": "Foydali 1 qancha muddatga amal qiladi?",
+    "expected_answer": "Foydali 1 paketi 6 oy muddatga beriladi, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1"
+      ],
+      "prices": [
+        "825 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0024",
+    "question": "Foydali 2 paket qancha turadi?",
+    "expected_answer": "Foydali 2 paketi narxi 907 500 so'm (6 oy). cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 2"
+      ],
+      "prices": [
+        "907 500"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0025",
+    "question": "Foydali 2 qancha muddatga amal qiladi?",
+    "expected_answer": "Foydali 2 paketi 6 oy muddatga beriladi, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 2"
+      ],
+      "prices": [
+        "907 500"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0026",
+    "question": "Foydali 3 paket qancha turadi?",
+    "expected_answer": "Foydali 3 paketi narxi 1 182 500 so'm (6 oy). cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 3"
+      ],
+      "prices": [
+        "1 182 500"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0027",
+    "question": "Foydali 3 qancha muddatga amal qiladi?",
+    "expected_answer": "Foydali 3 paketi 6 oy muddatga beriladi, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 3"
+      ],
+      "prices": [
+        "1 182 500"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0028",
+    "question": "Foydali 4 paket qancha turadi?",
+    "expected_answer": "Foydali 4 paketi narxi 2 750 000 so'm (6 oy). cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 4"
+      ],
+      "prices": [
+        "2 750 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0029",
+    "question": "Foydali 4 qancha muddatga amal qiladi?",
+    "expected_answer": "Foydali 4 paketi 6 oy muddatga beriladi, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 4"
+      ],
+      "prices": [
+        "2 750 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0030",
+    "question": "Foydali 1+ paket qancha turadi?",
+    "expected_answer": "Foydali 1+ paketi narxi 1 500 000 so'm (1 yil). cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1+"
+      ],
+      "prices": [
+        "1 500 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0031",
+    "question": "Foydali 1+ qancha muddatga amal qiladi?",
+    "expected_answer": "Foydali 1+ paketi 1 yil muddatga beriladi, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1+"
+      ],
+      "prices": [
+        "1 500 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0032",
+    "question": "Foydali 2+ paket qancha turadi?",
+    "expected_answer": "Foydali 2+ paketi narxi 1 650 000 so'm (1 yil). cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 2+"
+      ],
+      "prices": [
+        "1 650 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0033",
+    "question": "Foydali 2+ qancha muddatga amal qiladi?",
+    "expected_answer": "Foydali 2+ paketi 1 yil muddatga beriladi, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 2+"
+      ],
+      "prices": [
+        "1 650 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0034",
+    "question": "Foydali 3+ paket qancha turadi?",
+    "expected_answer": "Foydali 3+ paketi narxi 2 150 000 so'm (1 yil). cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 3+"
+      ],
+      "prices": [
+        "2 150 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0035",
+    "question": "Foydali 3+ qancha muddatga amal qiladi?",
+    "expected_answer": "Foydali 3+ paketi 1 yil muddatga beriladi, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 3+"
+      ],
+      "prices": [
+        "2 150 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0036",
+    "question": "Foydali 4+ paket qancha turadi?",
+    "expected_answer": "Foydali 4+ paketi narxi 5 000 000 so'm (1 yil). cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 4+"
+      ],
+      "prices": [
+        "5 000 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0037",
+    "question": "Foydali 4+ qancha muddatga amal qiladi?",
+    "expected_answer": "Foydali 4+ paketi 1 yil muddatga beriladi, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 4+"
+      ],
+      "prices": [
+        "5 000 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0038",
+    "question": "Connect year paketi narxi qancha?",
+    "expected_answer": "Connect year paketi oyiga 85 000 so'm. Cheksiz internet trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Connect year"
+      ],
+      "prices": [
+        "85 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0039",
+    "question": "Super Salom paketida nima bor?",
+    "expected_answer": "Super Salom: 70 000 so'm/oy, 100 GB internet, 1 000 SMS, cheksiz daqiqalar.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Super Salom"
+      ],
+      "prices": [
+        "70 000"
+      ],
+      "data": [
+        "100 GB"
+      ],
+      "sms": [
+        "1 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0040",
+    "question": "Сколько стоит 1 ГБ на 30 дней?",
+    "expected_answer": "1 ГБ на 30 дней стоит 10 000 сум. Код активации — *111*1*9*1#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB"
+      ],
+      "prices": [
+        "10 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*1#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0041",
+    "question": "Какой пакет на 5 ГБ?",
+    "expected_answer": "5 ГБ на 30 дней — 30 000 сум. USSD: *111*1*9*4#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "5 GB"
+      ],
+      "prices": [
+        "30 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*4#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0042",
+    "question": "Сколько стоит 8 ГБ пакет?",
+    "expected_answer": "Пакет 8 ГБ на 30 дней — 40 000 сум. Код: *111*1*9*5#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "8 GB"
+      ],
+      "prices": [
+        "40 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*5#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0043",
+    "question": "Есть ли годовой пакет 1 TB?",
+    "expected_answer": "Да, Data 1 TB — 1 300 000 сум на 1 год, 1 ТБ интернета.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 1 TB"
+      ],
+      "prices": [
+        "1 300 000"
+      ],
+      "data": [
+        "1 TB"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0044",
+    "question": "Что такое Foydali пакет?",
+    "expected_answer": "Foydali — полугодовой/годовой безлимитный пакет. Например, Foydali 1 — 825 000 сум на 6 месяцев.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1"
+      ],
+      "prices": [
+        "825 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0045",
+    "question": "Сколько стоит Connect year?",
+    "expected_answer": "Connect year — 85 000 сум/месяц, безлимитный трафик.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Connect year"
+      ],
+      "prices": [
+        "85 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0046",
+    "question": "Super Salom пакет что включает?",
+    "expected_answer": "Super Salom: 70 000 сум/мес, 100 ГБ интернета, 1 000 SMS, безлимитные минуты.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Super Salom"
+      ],
+      "prices": [
+        "70 000"
+      ],
+      "data": [
+        "100 GB"
+      ],
+      "sms": [
+        "1 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0047",
+    "question": "Menga 1.5 GB paket kerak, qanday podklyuchit qilaman?",
+    "expected_answer": "1.5 GB 30 kunlik internet paketni faollashtirish: *111*1*9*2# USSD kodini tering. Narxi 15 000 so'm.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1.5 GB"
+      ],
+      "prices": [
+        "15 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*2#"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "mixed",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0048",
+    "question": "Foydali 2+ da cheksiz inet bormi??",
+    "expected_answer": "Ha, Foydali 2+ yillik paket — cheksiz trafik, narxi 1 650 000 so'm/yil.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 2+"
+      ],
+      "prices": [
+        "1 650 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "mixed",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0049",
+    "question": "1 GB va 1.5 GB paketlar narx farqi qancha?",
+    "expected_answer": "1 GB paket 10 000 so'm, 1.5 GB paket 15 000 so'm. Farqi — 5 000 so'm, lekin 500 MB qo'shimcha internet.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB",
+        "1.5 GB"
+      ],
+      "prices": [
+        "10 000",
+        "15 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0050",
+    "question": "30 kunda 8 GB ishlataman, qaysi paket arzon?",
+    "expected_answer": "8 GB paket to'g'ri sizga: *111*1*9*5#, narxi 40 000 so'm. Alohida 1 GB paketlar olish 8 GB uchun 80 000 so'm bo'lardi — 2 barobar qimmat.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "8 GB"
+      ],
+      "prices": [
+        "40 000",
+        "80 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*5#"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0051",
+    "question": "Foydali 1 va Foydali 1+ farqi?",
+    "expected_answer": "Foydali 1 — 825 000 so'm, 6 oyga cheksiz trafik. Foydali 1+ — 1 500 000 so'm, 1 yilga cheksiz trafik. 1+ ikki barobar uzoqroq amal qiladi.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1",
+        "Foydali 1+"
+      ],
+      "prices": [
+        "825 000",
+        "1 500 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0052",
+    "question": "Yilning oyida 300 GB ishlataman, qaysi paket optimal?",
+    "expected_answer": "Sizga mos paket — Data 300 GB (500 000 so'm/yil). Oyiga taxminan 25 GB ga to'g'ri keladi. Agar oyiga 150+ GB ishlatsangiz, Ideal Plus tarifi (85 000 so'm/oy, 150 GB) yaxshiroq variant bo'lishi mumkin.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 300 GB",
+        "Ideal Plus"
+      ],
+      "prices": [
+        "500 000",
+        "85 000"
+      ],
+      "data": [
+        "300 GB",
+        "150 GB"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0053",
+    "question": "1 GB sotib oldim, muddati qancha?",
+    "expected_answer": "30 kunlik internet paketlari har biri 30 kun amal qiladi. 1 GB paket (10 000 so'm) 30 kun davomida ishlaydi.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB"
+      ],
+      "prices": [
+        "10 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0054",
+    "question": "Data 600 GB va 2 ta Data 300 GB paket narxi taqqoslang",
+    "expected_answer": "Data 600 GB — 900 000 so'm/yil. Ikki Data 300 GB — 2 × 500 000 = 1 000 000 so'm/yil. 600 GB varianti 100 000 so'm arzonroq.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 300 GB",
+        "Data 600 GB"
+      ],
+      "prices": [
+        "500 000",
+        "900 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0055",
+    "question": "Internet paket tugadi, hisobimdan asosiy balansdan pul echib olinadimi?",
+    "expected_answer": "Agar Internet-paketdan sessiya uchun MB yetarli bo'lmasa (3G/4G uchun 100 MB dan kam), hisob asosiy balansdan echiladi. Shu sababli yangi paket sotib olish kerak.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "prices": [
+        "100 MB"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0056",
+    "question": "Connect year va Super Salom ichidan cheksiz internetlik qaysi?",
+    "expected_answer": "Connect year cheksiz trafik beradi (85 000 so'm/oy). Super Salom 100 GB internet cheklovi bilan keladi, lekin daqiqa cheksiz.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Connect year",
+        "Super Salom"
+      ],
+      "prices": [
+        "85 000",
+        "70 000"
+      ],
+      "data": [
+        "100 GB"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0057",
+    "question": "5 GB paketni kunduz ishlatib tugatib, tungi internet qoladimi?",
+    "expected_answer": "Asosiy internet paketingiz (5 GB) tugasa, qo'shimcha tungi internet paketi faqat tun (01:00-06:59) oralig'ida ishlaydi. Kunduzi tugagach, tungi limit tugamaydi.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "5 GB"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0058",
+    "question": "5 ГБ пакет закончился, списывается ли с основного?",
+    "expected_answer": "Если интернет-пакет закончен и для сессии не хватает MB (100 MB для 3G/4G), оплата идёт с основного баланса. Лучше купить новый пакет.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "100 MB"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0059",
+    "question": "В чем разница Foydali и Data пакетов?",
+    "expected_answer": "Data (300/600/1000 ГБ) — ограниченный объём интернета на год. Foydali — безлимитный трафик на 6 мес или 1 год. Foydali дороже, но безлимитный.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 300 GB",
+        "Foydali 1",
+        "Foydali 1+"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0060",
+    "question": "Tungi internet paketi qanday ishlaydi?",
+    "expected_answer": "Tungi internet 01:00-06:59 oralig'ida amal qiladi. Faollashtirish: *111*2*18*1#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "ussd_codes": [
+        "*111*2*18*1#"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0061",
+    "question": "Data 300 GB va Foydali 1 ichidan qaysi cheksiz?",
+    "expected_answer": "Foydali 1 cheksiz trafik (825 000 so'm/6oy). Data 300 GB — 300 GB cheklov (500 000 so'm/yil).",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 300 GB",
+        "Foydali 1"
+      ],
+      "prices": [
+        "500 000",
+        "825 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0062",
+    "question": "Сколько стоит 3 ГБ на месяц?",
+    "expected_answer": "Пакет 3 ГБ на 30 дней — 20 000 сум. USSD: *111*1*9*3#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "3 GB"
+      ],
+      "prices": [
+        "20 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*3#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0063",
+    "question": "Foydali 4+ qancha?",
+    "expected_answer": "Foydali 4+ — 5 000 000 so'm/yil, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 4+"
+      ],
+      "prices": [
+        "5 000 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0064",
+    "question": "Foydali 3 va Foydali 3+ qaysi uzoqroq?",
+    "expected_answer": "Foydali 3 — 6 oy, Foydali 3+ — 1 yil. 3+ ikki barobar uzoq, lekin qimmatroq.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 3",
+        "Foydali 3+"
+      ],
+      "prices": [
+        "1 182 500",
+        "2 150 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0065",
+    "question": "Oyiga 20 GB ishlataman nima olsam?",
+    "expected_answer": "Oyiga 20 GB uchun Balance tarifi (65 000 so'm, 20 GB) yoki Mobile Mini M + qo'shimcha 8 GB paket varianti mavjud.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Balance",
+        "Mobile Mini M"
+      ],
+      "prices": [
+        "65 000",
+        "45 000"
+      ],
+      "data": [
+        "20 GB",
+        "10 GB",
+        "8 GB"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0066",
+    "question": "Какой есть ночной пакет?",
+    "expected_answer": "Ночной интернет — дополнительный пакет, работает с 01:00 до 06:59. Включить: *111*2*18*1#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "ussd_codes": [
+        "*111*2*18*1#"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "ru",
+    "source": "website"
+  },
+  {
+    "id": "package_0067",
+    "question": "Data 600 GB narxi?",
+    "expected_answer": "Data 600 GB paketi — 900 000 so'm/yil, 600 GB internet 1 yilga.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 600 GB"
+      ],
+      "prices": [
+        "900 000"
+      ],
+      "data": [
+        "600 GB"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0068",
+    "question": "8 GB paket muddati 30 kunmi?",
+    "expected_answer": "Ha, 8 GB internet paket (40 000 so'm) 30 kun davomida amal qiladi.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "8 GB"
+      ],
+      "prices": [
+        "40 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0069",
+    "question": "Foydali 2 ga nima kiradi?",
+    "expected_answer": "Foydali 2 — 907 500 so'm/6 oy, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 2"
+      ],
+      "prices": [
+        "907 500"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0070",
+    "question": "Bir oyga 1 GB yetmaydi, qancha paket olishim kerak?",
+    "expected_answer": "1 GB paketni har oy sotib olsangiz: 10 000 so'm. Agar ko'proq kerak bo'lsa, 5 GB (30 000 so'm) yoki 8 GB (40 000 so'm) ko'rib chiqing.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB",
+        "5 GB",
+        "8 GB"
+      ],
+      "prices": [
+        "10 000",
+        "30 000",
+        "40 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0071",
+    "question": "Connect 2.0 nima?",
+    "expected_answer": "Connect 2.0 — yillik maxsus tarif, birinchi yil uchun 3 500 000 so'm, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Connect 2.0"
+      ],
+      "prices": [
+        "3 500 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0072",
+    "question": "Super Salom va Mobile Mini M qaysi yaxshi?",
+    "expected_answer": "Super Salom (70 000 so'm) — 100 GB + cheksiz daqiqa. Mobile Mini M (45 000 so'm) — 10 GB + 700 daqiqa. Super Salom 10x internet beradi lekin 1.5x qimmat.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Super Salom",
+        "Mobile Mini M"
+      ],
+      "prices": [
+        "70 000",
+        "45 000"
+      ],
+      "data": [
+        "100 GB",
+        "10 GB"
+      ],
+      "calls": [
+        "cheksiz",
+        "700 daqiqa"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0073",
+    "question": "1 GB paket amal qiladigan muddati qancha?",
+    "expected_answer": "1 GB 30 kunlik internet paketi 30 kun amal qiladi.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0074",
+    "question": "3 GB paket USSD kodi qanday?",
+    "expected_answer": "3 GB internet paket USSD kodi — *111*1*9*3#, narxi 20 000 so'm.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "3 GB"
+      ],
+      "prices": [
+        "20 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*3#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0075",
+    "question": "5 GB paket narxi qancha?",
+    "expected_answer": "5 GB 30 kunlik internet paketi — 30 000 so'm. Kod: *111*1*9*4#.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "5 GB"
+      ],
+      "prices": [
+        "30 000"
+      ],
+      "ussd_codes": [
+        "*111*1*9*4#"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0076",
+    "question": "Data 300 GB paket narx?",
+    "expected_answer": "Data 300 GB paket — 500 000 so'm yillik, 300 GB internet.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 300 GB"
+      ],
+      "prices": [
+        "500 000"
+      ],
+      "data": [
+        "300 GB"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0077",
+    "question": "Data 1 TB qancha?",
+    "expected_answer": "Data 1 TB paket — 1 300 000 so'm yillik, 1 TB internet 1 yilga.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Data 1 TB"
+      ],
+      "prices": [
+        "1 300 000"
+      ],
+      "data": [
+        "1 TB"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0078",
+    "question": "Foydali 1 narxi",
+    "expected_answer": "Foydali 1 — 825 000 so'm, 6 oy, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1"
+      ],
+      "prices": [
+        "825 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0079",
+    "question": "Foydali 4 narxi",
+    "expected_answer": "Foydali 4 — 2 750 000 so'm, 6 oy, cheksiz trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 4"
+      ],
+      "prices": [
+        "2 750 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0080",
+    "question": "Foydali 2+ amal qilish muddati",
+    "expected_answer": "Foydali 2+ — 1 yil amal qiladi, narxi 1 650 000 so'm.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 2+"
+      ],
+      "prices": [
+        "1 650 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0081",
+    "question": "Connect year va Super Salom narx farqi?",
+    "expected_answer": "Connect year 85 000 so'm/oy, Super Salom 70 000 so'm/oy. Farq 15 000 so'm.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Connect year",
+        "Super Salom"
+      ],
+      "prices": [
+        "85 000",
+        "70 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0082",
+    "question": "Какие есть пакеты интернета на 30 дней?",
+    "expected_answer": "30-дневные интернет-пакеты: 1 ГБ (10 000), 1.5 ГБ (15 000), 3 ГБ (20 000), 5 ГБ (30 000), 8 ГБ (40 000) сум.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "data": [
+        "1 GB",
+        "1.5 GB",
+        "3 GB",
+        "5 GB",
+        "8 GB"
+      ],
+      "prices": [
+        "10 000",
+        "15 000",
+        "20 000",
+        "30 000",
+        "40 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "ru",
+    "source": "website"
+  },
+  {
+    "id": "package_0083",
+    "question": "Какой USSD для пакета 1 ГБ?",
+    "expected_answer": "USSD для 1 ГБ на 30 дней: *111*1*9*1#. Стоимость 10 000 сум.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "ussd_codes": [
+        "*111*1*9*1#"
+      ],
+      "prices": [
+        "10 000"
+      ],
+      "data": [
+        "1 GB"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0084",
+    "question": "Foydali 1+ qancha turadi?",
+    "expected_answer": "Foydali 1+ — 1 500 000 so'm, 1 yilga cheksiz internet trafik.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1+"
+      ],
+      "prices": [
+        "1 500 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0085",
+    "question": "Есть ли пакет на 100 ГБ?",
+    "expected_answer": "Прямого 100 ГБ пакета нет, но тариф Super Salom включает 100 ГБ в месяц (70 000 сум).",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Super Salom"
+      ],
+      "data": [
+        "100 GB"
+      ],
+      "prices": [
+        "70 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "ru",
+    "source": "website"
+  },
+  {
+    "id": "package_0086",
+    "question": "Paket podobrat qilsin menga — 20 GB uchun",
+    "expected_answer": "Oyiga 20 GB internet uchun: Balance tarifi (65 000 so'm, 20 GB internet) yoki Mobile Mini M + 8 GB paket (45 000 + 40 000 = 85 000 so'm).",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Balance",
+        "Mobile Mini M"
+      ],
+      "data": [
+        "20 GB",
+        "8 GB",
+        "10 GB"
+      ],
+      "prices": [
+        "65 000",
+        "45 000",
+        "40 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "mixed",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0087",
+    "question": "10 GB oylik paket bormi?",
+    "expected_answer": "To'g'ridan-to'g'ri 10 GB paket yo'q, lekin Mobile Mini M tarifi 10 GB internet bilan keladi (45 000 so'm/oy). Yoki 8 GB paket (40 000 so'm) + 1.5 GB paket (15 000 so'm) kombinatsiyasi.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Mobile Mini M"
+      ],
+      "data": [
+        "10 GB",
+        "8 GB",
+        "1.5 GB"
+      ],
+      "prices": [
+        "45 000",
+        "40 000",
+        "15 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0088",
+    "question": "Foydali 1 tugasa internet qayta kelib qoladimi?",
+    "expected_answer": "Yo'q, Foydali 1 muddati (6 oy) tugasa, avtomatik yangilanish bo'lmaydi. Yangi paket sotib olish kerak.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 1"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0089",
+    "question": "Мой пакет 3 ГБ кончился, могу продлить?",
+    "expected_answer": "Нет, нужно купить новый 30-дневный пакет. 3 ГБ — *111*1*9*3#, 20 000 сум.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "ussd_codes": [
+        "*111*1*9*3#"
+      ],
+      "prices": [
+        "20 000"
+      ],
+      "data": [
+        "3 GB"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "ru",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0090",
+    "question": "Connect 2.0 birinchi yildan keyin narxi?",
+    "expected_answer": "Connect 2.0 birinchi yil 3 500 000 so'm. Keyingi yillari standart tarif bo'yicha — aniqlik uchun kontakt markazi (1084) bilan bog'laning.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Connect 2.0"
+      ],
+      "prices": [
+        "3 500 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0091",
+    "question": "Foydali 4+ da telefon kiradi?",
+    "expected_answer": "Foydali 4+ — 5 000 000 so'm/yil, cheksiz trafik. Qo'shimcha TV yoki telefon kiritilmagan.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Foydali 4+"
+      ],
+      "prices": [
+        "5 000 000"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0092",
+    "question": "Shahar tarmogi tarifi paketmi?",
+    "expected_answer": "Shahar tarmog'i — uy telefoni tarifi (8 070 so'm/oy, 180 daqiqa), alohida paket emas.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Shahar tarmog'i"
+      ],
+      "prices": [
+        "8 070"
+      ]
+    },
+    "difficulty": "medium",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0093",
+    "question": "Qishloq tarmog'i qancha?",
+    "expected_answer": "Qishloq tarmog'i uy telefoni tarifi — 3 615 so'm/oy, 180 daqiqa.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Qishloq tarmog'i"
+      ],
+      "prices": [
+        "3 615"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0094",
+    "question": "Limitsiz telefon tarifi bormi?",
+    "expected_answer": "Limitsiz — uy telefoni tarifi, 25 000 so'm/oy, cheksiz daqiqalar.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Limitsiz"
+      ],
+      "prices": [
+        "25 000"
+      ]
+    },
+    "difficulty": "easy",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0095",
+    "question": "Rouming paketlarida qancha bor?",
+    "expected_answer": "Rouming xizmatida 100 daqiqa — 4 000 so'm (*111*2*3*1#), 300 daqiqa — 10 000 so'm (*111*2*3*2#), 600 daqiqa — 16 000 so'm (*111*2*3*3#).",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "calls": [
+        "100 daqiqa",
+        "300 daqiqa",
+        "600 daqiqa"
+      ],
+      "prices": [
+        "4 000",
+        "10 000",
+        "16 000"
+      ],
+      "ussd_codes": [
+        "*111*2*3*1#",
+        "*111*2*3*2#",
+        "*111*2*3*3#"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "website"
+  },
+  {
+    "id": "package_0096",
+    "question": "Bir oy uchun 50 GB kerak, nima maslahat berasiz?",
+    "expected_answer": "Oyiga 50 GB uchun: Balance (65 000 so'm, 20 GB) yetmaydi; Ideal Plus (85 000 so'm, 150 GB) eng mos. Yoki Business Optimal (60 000 so'm, 50 GB) — korporativ.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Balance",
+        "Ideal Plus",
+        "Business Optimal"
+      ],
+      "data": [
+        "20 GB",
+        "150 GB",
+        "50 GB"
+      ],
+      "prices": [
+        "65 000",
+        "85 000",
+        "60 000"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "sbms"
+  },
+  {
+    "id": "package_0097",
+    "question": "Yagona Hisob paketmi?",
+    "expected_answer": "Yagona Hisob bu paket emas, balki bog'langan SIMlar va uy internet uchun yagona hisob-kitob. Chegirma: 2 SIM=5%, 3=10%, 4=15%, 5+=20%.",
+    "expected_tool": "search_knowledge_base",
+    "key_facts": {
+      "tariff_names": [
+        "Yagona Hisob"
+      ]
+    },
+    "difficulty": "hard",
+    "language": "uz_lat",
+    "source": "website"
+  }
+]
