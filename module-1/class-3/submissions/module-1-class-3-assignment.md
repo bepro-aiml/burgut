@@ -1,7 +1,7 @@
 # Module 1 | Class 3 Assignment
 ## AI in Uzbekistan - Find It
 
-Name: <Your Name>  
+Name: <Asadullo Ismoilov>  
 Date: April 26, 2026
 
 ## Task 1 + Task 2: 3 AI/ML Applications in Uzbekistan (Summary Table)

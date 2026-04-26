@@ -1,7 +1,7 @@
 # Module 1 | Class 2 Assignment
 ## Probability in Everyday Life
 
-Name: <Your Name>  
+Name: <Asadullo Ismoilov>  
 Date: April 26, 2026
 
 ## Task 1: 3 Real-World Probability Examples

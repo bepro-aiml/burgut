@@ -1,7 +1,7 @@
 # Module 1 | Class 1 Assignment
 ## ML Type Classification Exercise
 
-Name: <Your Name>  
+Name: <Asadullo Ismoilov>  
 Date: April 26, 2026
 
 ## Task 1: Classify 17 Real-World Scenarios

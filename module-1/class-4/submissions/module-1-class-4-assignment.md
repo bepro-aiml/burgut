@@ -1,7 +1,7 @@
 # Module 1 | Class 4 Assignment
 ## ITES Case Study - Mobile Payment Fraud Detection
 
-Name: <Your Name>  
+Name: <Asadullo Ismoilov>  
 Date: April 26, 2026
 
 Chosen scenario: **Option B - Mobile Payment Fraud Detection (Payme/Click-like service)**
